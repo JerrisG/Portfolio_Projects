@@ -10,7 +10,7 @@
 
 
 ## Visualization Preview
-![](https://github.com/JerrisG/Portfolio_Projects/blob/main/images/BarChart.JPG)
+![](/images/BarChart.JPG)
 
 ## Full Visuals 
 [Tableau Public](https://public.tableau.com/app/profile/jerrisg/viz/COVID-19Dashboard_16217959357270/Dashboard1).
