@@ -1,3 +1,5 @@
+-- TSQL scripting to gather information  based on COVID infection.
+
 SELECT *
 FROM PortfolioProject1..COVIDDeaths$
 Where continent is not null
